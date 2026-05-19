@@ -1,0 +1,28 @@
+# Secretos — NUNCA commitear
+.env
+
+# Datos generados (grandes, reproducibles con generate_batch.py)
+data/raw/*.csv
+
+# Capturas de demo (artefactos generados, no código fuente)
+demo_capturas/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Temporales de Spark / Java
+derby.log
+metastore_db/
+spark-warehouse/

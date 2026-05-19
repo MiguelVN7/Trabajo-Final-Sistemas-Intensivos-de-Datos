@@ -1,0 +1,50 @@
+station_id,nombre,latitud,longitud,municipio,es_transbordo
+EST-001,Niquía,6.3383,-75.5222,Bello,false
+EST-002,Madera,6.3226,-75.5340,Bello,false
+EST-003,Bello,6.3065,-75.5457,Bello,false
+EST-004,Acevedo,6.2953,-75.5557,Medellín,true
+EST-005,Tricentenario,6.2862,-75.5618,Medellín,false
+EST-006,Caribe,6.2796,-75.5650,Medellín,false
+EST-007,Universidad,6.2680,-75.5673,Medellín,false
+EST-008,Hospital,6.2600,-75.5671,Medellín,false
+EST-009,Prado,6.2553,-75.5671,Medellín,false
+EST-010,Parque Berrío,6.2511,-75.5669,Medellín,false
+EST-011,San Antonio,6.2465,-75.5671,Medellín,true
+EST-012,Alpujarra,6.2420,-75.5670,Medellín,false
+EST-013,Exposiciones,6.2375,-75.5668,Medellín,false
+EST-014,Industriales,6.2297,-75.5662,Medellín,false
+EST-015,Poblado,6.2090,-75.5643,Medellín,false
+EST-016,Aguacatala,6.1953,-75.5608,Medellín,false
+EST-017,Ayurá,6.1829,-75.5572,Envigado,false
+EST-018,Envigado,6.1693,-75.5524,Envigado,false
+EST-019,Itagüí,6.1551,-75.5481,Itagüí,false
+EST-020,Sabaneta,6.1433,-75.5437,Sabaneta,false
+EST-021,La Estrella,6.1286,-75.5387,La Estrella,false
+EST-022,Cisneros,6.2474,-75.5732,Medellín,false
+EST-023,Suramericana,6.2490,-75.5813,Medellín,false
+EST-024,Estadio,6.2506,-75.5892,Medellín,false
+EST-025,Floresta,6.2518,-75.5974,Medellín,false
+EST-026,Santa Lucía,6.2524,-75.6036,Medellín,false
+EST-027,San Javier,6.2503,-75.6073,Medellín,true
+EST-028,Andalucía,6.3043,-75.5446,Medellín,false
+EST-029,Popular,6.3133,-75.5336,Medellín,false
+EST-030,Santo Domingo Savio,6.3199,-75.5251,Medellín,true
+EST-031,Juan XXIII,6.2564,-75.6175,Medellín,false
+EST-032,Vallejuelos,6.2631,-75.6279,Medellín,false
+EST-033,La Aurora,6.2698,-75.6383,Medellín,false
+EST-034,Arví,6.3028,-75.4974,Medellín,false
+EST-035,Las Torres,6.2253,-75.5347,Medellín,false
+EST-036,Villa Sierra,6.2211,-75.5283,Medellín,false
+EST-037,Oriente,6.2295,-75.5411,Medellín,true
+EST-038,Miraflores,6.2339,-75.5508,Medellín,true
+EST-039,El Pinal,6.2401,-75.5452,Medellín,false
+EST-040,Trece de Noviembre,6.2463,-75.5396,Medellín,false
+EST-041,Sena (Picacho),6.3024,-75.5489,Medellín,false
+EST-042,Doce de Octubre,6.3095,-75.5421,Medellín,false
+EST-043,El Progreso,6.3166,-75.5353,Medellín,false
+EST-044,Bicentenario,6.2449,-75.5634,Medellín,false
+EST-045,Buenos Aires,6.2425,-75.5589,Medellín,false
+EST-046,MAMM,6.2406,-75.5553,Medellín,false
+EST-047,Loyola,6.2384,-75.5517,Medellín,false
+EST-048,Alejandro Echavarría,6.2358,-75.5481,Medellín,false
+EST-049,Sena (Ayacucho),6.2317,-75.5460,Medellín,false
