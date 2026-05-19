@@ -172,7 +172,8 @@ Particionado por `trip_date`. Preserva todos los campos originales.
 
 ### Silver · `silver.trips`
 
-Datos limpios y tipados. Columnas derivadas: `hour_block` (franja de 3 h),
+Datos limpios y tipados. Columnas derivadas: `hour_block` (7 franjas que cubren
+05:00–23:00: `05-06`, `06-09`, `09-12`, `12-15`, `15-18`, `18-21`, `21-23`),
 `time_of_day`, `is_peak_hour`, `delay_category`, `trip_direction`, `n_stops`.
 Elimina registros con campos obligatorios nulos.
 
