@@ -87,6 +87,11 @@ docker compose up -d
 # 3. Verificar
 docker compose ps                  # todos (healthy); minio-init → Exited (0)
 bash scripts/smoke_test.sh         # Kafka · MinIO · Spark+Iceberg end-to-end
+bash scripts/healthcheck.sh        # 17 checks de salud del sistema completo:
+                                   #   contenedores · Flink job · MongoDB (stream activo)
+                                   #   tablas Gold Iceberg · tópico Kafka
+                                   # Salida: N OK / M FALLO · exit 1 si algo falla
+                                   # Recomendado ejecutar ~30 min antes de la demo
 
 # Detener (sin borrar datos):
 docker compose down
