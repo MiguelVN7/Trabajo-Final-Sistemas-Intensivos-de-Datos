@@ -1,6 +1,9 @@
 # Secretos — NUNCA commitear
 .env
 
+# Material interno de presentación (no entregable del sistema)
+Guion_Sustentacion.docx
+
 # Datos generados (grandes, reproducibles con generate_batch.py)
 data/raw/*.csv
 
